@@ -1,0 +1,1 @@
+def p(g):import numpy as n;return n.fliplr(n.array(g)).tolist()

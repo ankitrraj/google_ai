@@ -1,0 +1,1 @@
+def p(g):import numpy as n;return n.rot90(n.array(g),2).tolist()

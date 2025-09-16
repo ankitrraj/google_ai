@@ -1,0 +1,1 @@
+def p(g):import numpy as n;a=n.array(g);return(a+n.flipud(a)).tolist()

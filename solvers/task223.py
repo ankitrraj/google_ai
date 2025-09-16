@@ -1,0 +1,1 @@
+def p(g):import numpy as n;g=n.array(g);return n.repeat(n.repeat(g,3,0),3,1).tolist()

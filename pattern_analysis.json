@@ -1,0 +1,5629 @@
+{
+  "results": [
+    {
+      "task": 1,
+      "pattern": "3x3_tile",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 9.0
+    },
+    {
+      "task": 2,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        6,
+        6
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 3,
+      "pattern": "complex",
+      "input_shape": [
+        6,
+        3
+      ],
+      "output_shape": [
+        9,
+        3
+      ],
+      "size_ratio": 1.5
+    },
+    {
+      "task": 4,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        14,
+        9
+      ],
+      "output_shape": [
+        14,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 5,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        21,
+        21
+      ],
+      "output_shape": [
+        21,
+        21
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 6,
+      "pattern": "contraction",
+      "input_shape": [
+        3,
+        7
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.42857142857142855
+    },
+    {
+      "task": 7,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        7,
+        7
+      ],
+      "output_shape": [
+        7,
+        7
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 8,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        14,
+        9
+      ],
+      "output_shape": [
+        14,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 9,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        20,
+        20
+      ],
+      "output_shape": [
+        20,
+        20
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 10,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 11,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        11,
+        11
+      ],
+      "output_shape": [
+        11,
+        11
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 12,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        12,
+        12
+      ],
+      "output_shape": [
+        12,
+        12
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 13,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        25
+      ],
+      "output_shape": [
+        10,
+        25
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 14,
+      "pattern": "contraction",
+      "input_shape": [
+        21,
+        21
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 0.22675736961451248
+    },
+    {
+      "task": 15,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 16,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 17,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        21,
+        21
+      ],
+      "output_shape": [
+        21,
+        21
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 18,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        14,
+        18
+      ],
+      "output_shape": [
+        14,
+        18
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 19,
+      "pattern": "expansion",
+      "input_shape": [
+        2,
+        4
+      ],
+      "output_shape": [
+        4,
+        8
+      ],
+      "size_ratio": 4.0
+    },
+    {
+      "task": 20,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 21,
+      "pattern": "contraction",
+      "input_shape": [
+        15,
+        15
+      ],
+      "output_shape": [
+        2,
+        4
+      ],
+      "size_ratio": 0.035555555555555556
+    },
+    {
+      "task": 22,
+      "pattern": "contraction",
+      "input_shape": [
+        11,
+        11
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.0743801652892562
+    },
+    {
+      "task": 23,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        11
+      ],
+      "output_shape": [
+        9,
+        11
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 24,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 25,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        18,
+        19
+      ],
+      "output_shape": [
+        18,
+        19
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 26,
+      "pattern": "contraction",
+      "input_shape": [
+        5,
+        7
+      ],
+      "output_shape": [
+        5,
+        3
+      ],
+      "size_ratio": 0.42857142857142855
+    },
+    {
+      "task": 27,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 28,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 29,
+      "pattern": "contraction",
+      "input_shape": [
+        23,
+        21
+      ],
+      "output_shape": [
+        6,
+        8
+      ],
+      "size_ratio": 0.09937888198757763
+    },
+    {
+      "task": 30,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        5,
+        10
+      ],
+      "output_shape": [
+        5,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 31,
+      "pattern": "contraction",
+      "input_shape": [
+        10,
+        12
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 0.13333333333333333
+    },
+    {
+      "task": 32,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        4,
+        4
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 33,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        17,
+        17
+      ],
+      "output_shape": [
+        17,
+        17
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 34,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 35,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 36,
+      "pattern": "contraction",
+      "input_shape": [
+        30,
+        30
+      ],
+      "output_shape": [
+        5,
+        3
+      ],
+      "size_ratio": 0.016666666666666666
+    },
+    {
+      "task": 37,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 38,
+      "pattern": "contraction",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        1,
+        5
+      ],
+      "size_ratio": 0.06172839506172839
+    },
+    {
+      "task": 39,
+      "pattern": "contraction",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.09
+    },
+    {
+      "task": 40,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 41,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 42,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 43,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 44,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 45,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 46,
+      "pattern": "contraction",
+      "input_shape": [
+        3,
+        9
+      ],
+      "output_shape": [
+        3,
+        7
+      ],
+      "size_ratio": 0.7777777777777778
+    },
+    {
+      "task": 47,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 48,
+      "pattern": "contraction",
+      "input_shape": [
+        5,
+        5
+      ],
+      "output_shape": [
+        1,
+        1
+      ],
+      "size_ratio": 0.04
+    },
+    {
+      "task": 49,
+      "pattern": "contraction",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.09
+    },
+    {
+      "task": 50,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        7,
+        13
+      ],
+      "output_shape": [
+        7,
+        13
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 51,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        15
+      ],
+      "output_shape": [
+        10,
+        15
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 52,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 53,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 54,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        30,
+        30
+      ],
+      "output_shape": [
+        30,
+        30
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 55,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        18,
+        19
+      ],
+      "output_shape": [
+        18,
+        19
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 56,
+      "pattern": "contraction",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        1,
+        1
+      ],
+      "size_ratio": 0.1111111111111111
+    },
+    {
+      "task": 57,
+      "pattern": "contraction",
+      "input_shape": [
+        8,
+        8
+      ],
+      "output_shape": [
+        3,
+        6
+      ],
+      "size_ratio": 0.28125
+    },
+    {
+      "task": 58,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        6,
+        6
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 59,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        11,
+        11
+      ],
+      "output_shape": [
+        11,
+        11
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 60,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        5,
+        11
+      ],
+      "output_shape": [
+        5,
+        11
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 61,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        18,
+        18
+      ],
+      "output_shape": [
+        18,
+        18
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 62,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 63,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        12,
+        12
+      ],
+      "output_shape": [
+        12,
+        12
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 64,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        12
+      ],
+      "output_shape": [
+        9,
+        12
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 65,
+      "pattern": "contraction",
+      "input_shape": [
+        5,
+        5
+      ],
+      "output_shape": [
+        2,
+        2
+      ],
+      "size_ratio": 0.16
+    },
+    {
+      "task": 66,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        20,
+        20
+      ],
+      "output_shape": [
+        20,
+        20
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 67,
+      "pattern": "contraction",
+      "input_shape": [
+        3,
+        9
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.3333333333333333
+    },
+    {
+      "task": 68,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 69,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 70,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        17,
+        17
+      ],
+      "output_shape": [
+        17,
+        17
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 71,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        16,
+        16
+      ],
+      "output_shape": [
+        16,
+        16
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 72,
+      "pattern": "contraction",
+      "input_shape": [
+        13,
+        5
+      ],
+      "output_shape": [
+        6,
+        5
+      ],
+      "size_ratio": 0.46153846153846156
+    },
+    {
+      "task": 73,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        5,
+        5
+      ],
+      "output_shape": [
+        5,
+        5
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 74,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        30,
+        30
+      ],
+      "output_shape": [
+        30,
+        30
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 75,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        13
+      ],
+      "output_shape": [
+        9,
+        13
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 76,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        13,
+        13
+      ],
+      "output_shape": [
+        13,
+        13
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 77,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        17,
+        18
+      ],
+      "output_shape": [
+        17,
+        18
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 78,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 79,
+      "pattern": "contraction",
+      "input_shape": [
+        14,
+        14
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.04591836734693878
+    },
+    {
+      "task": 80,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        24,
+        24
+      ],
+      "output_shape": [
+        24,
+        24
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 81,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        7,
+        7
+      ],
+      "output_shape": [
+        7,
+        7
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 82,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        6,
+        10
+      ],
+      "output_shape": [
+        6,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 83,
+      "pattern": "expansion",
+      "input_shape": [
+        3,
+        4
+      ],
+      "output_shape": [
+        6,
+        8
+      ],
+      "size_ratio": 4.0
+    },
+    {
+      "task": 84,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        15,
+        15
+      ],
+      "output_shape": [
+        15,
+        15
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 85,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        8,
+        30
+      ],
+      "output_shape": [
+        8,
+        30
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 86,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 87,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 88,
+      "pattern": "contraction",
+      "input_shape": [
+        7,
+        7
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.1836734693877551
+    },
+    {
+      "task": 89,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        13,
+        13
+      ],
+      "output_shape": [
+        13,
+        13
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 90,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        30
+      ],
+      "output_shape": [
+        3,
+        30
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 91,
+      "pattern": "contraction",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        5,
+        5
+      ],
+      "size_ratio": 0.30864197530864196
+    },
+    {
+      "task": 92,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        30,
+        20
+      ],
+      "output_shape": [
+        30,
+        20
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 93,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        14,
+        14
+      ],
+      "output_shape": [
+        14,
+        14
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 94,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        15,
+        15
+      ],
+      "output_shape": [
+        15,
+        15
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 95,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 96,
+      "pattern": "contraction",
+      "input_shape": [
+        13,
+        17
+      ],
+      "output_shape": [
+        7,
+        7
+      ],
+      "size_ratio": 0.22171945701357465
+    },
+    {
+      "task": 97,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        16,
+        11
+      ],
+      "output_shape": [
+        16,
+        11
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 98,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        18,
+        16
+      ],
+      "output_shape": [
+        18,
+        16
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 99,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 100,
+      "pattern": "contraction",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        2,
+        2
+      ],
+      "size_ratio": 0.04
+    },
+    {
+      "task": 101,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        14,
+        12
+      ],
+      "output_shape": [
+        14,
+        12
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 102,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        12,
+        12
+      ],
+      "output_shape": [
+        12,
+        12
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 103,
+      "pattern": "contraction",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        1,
+        1
+      ],
+      "size_ratio": 0.1111111111111111
+    },
+    {
+      "task": 104,
+      "pattern": "3x3_tile",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 9.0
+    },
+    {
+      "task": 105,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        13
+      ],
+      "output_shape": [
+        9,
+        13
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 106,
+      "pattern": "expansion",
+      "input_shape": [
+        2,
+        2
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 4.0
+    },
+    {
+      "task": 107,
+      "pattern": "expansion",
+      "input_shape": [
+        5,
+        5
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 4.0
+    },
+    {
+      "task": 108,
+      "pattern": "expansion",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        20,
+        20
+      ],
+      "size_ratio": 4.0
+    },
+    {
+      "task": 109,
+      "pattern": "contraction",
+      "input_shape": [
+        11,
+        11
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 0.8264462809917356
+    },
+    {
+      "task": 110,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        29,
+        29
+      ],
+      "output_shape": [
+        29,
+        29
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 111,
+      "pattern": "contraction",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.09
+    },
+    {
+      "task": 112,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        20,
+        30
+      ],
+      "output_shape": [
+        20,
+        30
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 113,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        3
+      ],
+      "output_shape": [
+        10,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 114,
+      "pattern": "expansion",
+      "input_shape": [
+        2,
+        2
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 4.0
+    },
+    {
+      "task": 115,
+      "pattern": "contraction",
+      "input_shape": [
+        14,
+        16
+      ],
+      "output_shape": [
+        1,
+        3
+      ],
+      "size_ratio": 0.013392857142857142
+    },
+    {
+      "task": 116,
+      "pattern": "rearrangement",
+      "input_shape": [
+        3,
+        4
+      ],
+      "output_shape": [
+        6,
+        4
+      ],
+      "size_ratio": 2.0
+    },
+    {
+      "task": 117,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        14,
+        14
+      ],
+      "output_shape": [
+        14,
+        14
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 118,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        20,
+        22
+      ],
+      "output_shape": [
+        20,
+        22
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 119,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        12,
+        12
+      ],
+      "output_shape": [
+        12,
+        12
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 120,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        13,
+        15
+      ],
+      "output_shape": [
+        13,
+        15
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 121,
+      "pattern": "contraction",
+      "input_shape": [
+        13,
+        13
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.05325443786982249
+    },
+    {
+      "task": 122,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        7,
+        13
+      ],
+      "output_shape": [
+        7,
+        13
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 123,
+      "pattern": "expansion",
+      "input_shape": [
+        5,
+        5
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 4.0
+    },
+    {
+      "task": 124,
+      "pattern": "rearrangement",
+      "input_shape": [
+        6,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.6666666666666667
+    },
+    {
+      "task": 125,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        15,
+        15
+      ],
+      "output_shape": [
+        15,
+        15
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 126,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        8,
+        8
+      ],
+      "output_shape": [
+        8,
+        8
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 127,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        11
+      ],
+      "output_shape": [
+        3,
+        11
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 128,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        15,
+        15
+      ],
+      "output_shape": [
+        15,
+        15
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 129,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 130,
+      "pattern": "contraction",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.1111111111111111
+    },
+    {
+      "task": 131,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        4,
+        16
+      ],
+      "output_shape": [
+        4,
+        16
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 132,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 133,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        16,
+        12
+      ],
+      "output_shape": [
+        16,
+        12
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 134,
+      "pattern": "contraction",
+      "input_shape": [
+        20,
+        24
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.01875
+    },
+    {
+      "task": 135,
+      "pattern": "contraction",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.1111111111111111
+    },
+    {
+      "task": 136,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 137,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        23,
+        23
+      ],
+      "output_shape": [
+        23,
+        23
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 138,
+      "pattern": "contraction",
+      "input_shape": [
+        22,
+        22
+      ],
+      "output_shape": [
+        15,
+        12
+      ],
+      "size_ratio": 0.371900826446281
+    },
+    {
+      "task": 139,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 140,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 141,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        15,
+        15
+      ],
+      "output_shape": [
+        15,
+        15
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 142,
+      "pattern": "expansion",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 4.0
+    },
+    {
+      "task": 143,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 144,
+      "pattern": "contraction",
+      "input_shape": [
+        9,
+        4
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 0.4444444444444444
+    },
+    {
+      "task": 145,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        18,
+        13
+      ],
+      "output_shape": [
+        18,
+        13
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 146,
+      "pattern": "contraction",
+      "input_shape": [
+        9,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.3333333333333333
+    },
+    {
+      "task": 147,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 148,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        19,
+        8
+      ],
+      "output_shape": [
+        19,
+        8
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 149,
+      "pattern": "contraction",
+      "input_shape": [
+        11,
+        11
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.0743801652892562
+    },
+    {
+      "task": 150,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        4,
+        4
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 151,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        4,
+        4
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 152,
+      "pattern": "expansion",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 4.0
+    },
+    {
+      "task": 153,
+      "pattern": "contraction",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.09
+    },
+    {
+      "task": 154,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        15,
+        15
+      ],
+      "output_shape": [
+        15,
+        15
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 155,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        5,
+        5
+      ],
+      "output_shape": [
+        5,
+        5
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 156,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 157,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        15
+      ],
+      "output_shape": [
+        10,
+        15
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 158,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        20,
+        19
+      ],
+      "output_shape": [
+        20,
+        19
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 159,
+      "pattern": "contraction",
+      "input_shape": [
+        18,
+        21
+      ],
+      "output_shape": [
+        8,
+        8
+      ],
+      "size_ratio": 0.1693121693121693
+    },
+    {
+      "task": 160,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 161,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        11,
+        22
+      ],
+      "output_shape": [
+        11,
+        22
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 162,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        20,
+        20
+      ],
+      "output_shape": [
+        20,
+        20
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 163,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        11,
+        11
+      ],
+      "output_shape": [
+        11,
+        11
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 164,
+      "pattern": "rearrangement",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        6
+      ],
+      "size_ratio": 2.0
+    },
+    {
+      "task": 165,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        20,
+        20
+      ],
+      "output_shape": [
+        20,
+        20
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 166,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        14,
+        10
+      ],
+      "output_shape": [
+        14,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 167,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 168,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 169,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 170,
+      "pattern": "contraction",
+      "input_shape": [
+        27,
+        21
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.015873015873015872
+    },
+    {
+      "task": 171,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 172,
+      "pattern": "rearrangement",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        6,
+        3
+      ],
+      "size_ratio": 2.0
+    },
+    {
+      "task": 173,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        13,
+        22
+      ],
+      "output_shape": [
+        13,
+        22
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 174,
+      "pattern": "contraction",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        2,
+        4
+      ],
+      "size_ratio": 0.08
+    },
+    {
+      "task": 175,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        21,
+        21
+      ],
+      "output_shape": [
+        21,
+        21
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 176,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        10
+      ],
+      "output_shape": [
+        3,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 177,
+      "pattern": "contraction",
+      "input_shape": [
+        10,
+        15
+      ],
+      "output_shape": [
+        4,
+        8
+      ],
+      "size_ratio": 0.21333333333333335
+    },
+    {
+      "task": 178,
+      "pattern": "contraction",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        1
+      ],
+      "size_ratio": 0.3333333333333333
+    },
+    {
+      "task": 179,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 180,
+      "pattern": "contraction",
+      "input_shape": [
+        8,
+        8
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 0.25
+    },
+    {
+      "task": 181,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        6,
+        9
+      ],
+      "output_shape": [
+        6,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 182,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        20,
+        20
+      ],
+      "output_shape": [
+        20,
+        20
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 183,
+      "pattern": "contraction",
+      "input_shape": [
+        8,
+        8
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 0.25
+    },
+    {
+      "task": 184,
+      "pattern": "contraction",
+      "input_shape": [
+        20,
+        20
+      ],
+      "output_shape": [
+        2,
+        2
+      ],
+      "size_ratio": 0.01
+    },
+    {
+      "task": 185,
+      "pattern": "contraction",
+      "input_shape": [
+        29,
+        29
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.01070154577883472
+    },
+    {
+      "task": 186,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 187,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        23,
+        23
+      ],
+      "output_shape": [
+        23,
+        23
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 188,
+      "pattern": "contraction",
+      "input_shape": [
+        4,
+        8
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 0.5
+    },
+    {
+      "task": 189,
+      "pattern": "contraction",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 0.4444444444444444
+    },
+    {
+      "task": 190,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 191,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        23,
+        23
+      ],
+      "output_shape": [
+        23,
+        23
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 192,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        13,
+        14
+      ],
+      "output_shape": [
+        13,
+        14
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 193,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        13,
+        13
+      ],
+      "output_shape": [
+        13,
+        13
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 194,
+      "pattern": "expansion",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 4.0
+    },
+    {
+      "task": 195,
+      "pattern": "contraction",
+      "input_shape": [
+        16,
+        18
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 0.28125
+    },
+    {
+      "task": 196,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        15,
+        15
+      ],
+      "output_shape": [
+        15,
+        15
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 197,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        8
+      ],
+      "output_shape": [
+        10,
+        8
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 198,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        24,
+        24
+      ],
+      "output_shape": [
+        24,
+        24
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 199,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 200,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 201,
+      "pattern": "contraction",
+      "input_shape": [
+        13,
+        13
+      ],
+      "output_shape": [
+        6,
+        8
+      ],
+      "size_ratio": 0.28402366863905326
+    },
+    {
+      "task": 202,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        15,
+        19
+      ],
+      "output_shape": [
+        15,
+        19
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 203,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        12,
+        12
+      ],
+      "output_shape": [
+        12,
+        12
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 204,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 205,
+      "pattern": "contraction",
+      "input_shape": [
+        17,
+        23
+      ],
+      "output_shape": [
+        7,
+        6
+      ],
+      "size_ratio": 0.10741687979539642
+    },
+    {
+      "task": 206,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 207,
+      "pattern": "contraction",
+      "input_shape": [
+        5,
+        5
+      ],
+      "output_shape": [
+        2,
+        2
+      ],
+      "size_ratio": 0.16
+    },
+    {
+      "task": 208,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        21,
+        21
+      ],
+      "output_shape": [
+        21,
+        21
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 209,
+      "pattern": "contraction",
+      "input_shape": [
+        17,
+        17
+      ],
+      "output_shape": [
+        9,
+        14
+      ],
+      "size_ratio": 0.4359861591695502
+    },
+    {
+      "task": 210,
+      "pattern": "rearrangement",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        6,
+        3
+      ],
+      "size_ratio": 2.0
+    },
+    {
+      "task": 211,
+      "pattern": "expansion",
+      "input_shape": [
+        3,
+        2
+      ],
+      "output_shape": [
+        9,
+        4
+      ],
+      "size_ratio": 6.0
+    },
+    {
+      "task": 212,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 213,
+      "pattern": "contraction",
+      "input_shape": [
+        18,
+        15
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 0.13333333333333333
+    },
+    {
+      "task": 214,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        11
+      ],
+      "output_shape": [
+        3,
+        11
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 215,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        15,
+        19
+      ],
+      "output_shape": [
+        15,
+        19
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 216,
+      "pattern": "contraction",
+      "input_shape": [
+        20,
+        20
+      ],
+      "output_shape": [
+        5,
+        6
+      ],
+      "size_ratio": 0.075
+    },
+    {
+      "task": 217,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 218,
+      "pattern": "contraction",
+      "input_shape": [
+        21,
+        21
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.02040816326530612
+    },
+    {
+      "task": 219,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        15,
+        10
+      ],
+      "output_shape": [
+        15,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 220,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        12,
+        12
+      ],
+      "output_shape": [
+        12,
+        12
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 221,
+      "pattern": "expansion",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        12,
+        12
+      ],
+      "size_ratio": 16.0
+    },
+    {
+      "task": 222,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        16,
+        16
+      ],
+      "output_shape": [
+        16,
+        16
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 223,
+      "pattern": "3x3_tile",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 9.0
+    },
+    {
+      "task": 224,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        12,
+        13
+      ],
+      "output_shape": [
+        12,
+        13
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 225,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        6,
+        6
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 226,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 227,
+      "pattern": "contraction",
+      "input_shape": [
+        8,
+        4
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 0.5
+    },
+    {
+      "task": 228,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 229,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 230,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 231,
+      "pattern": "rearrangement",
+      "input_shape": [
+        5,
+        6
+      ],
+      "output_shape": [
+        5,
+        12
+      ],
+      "size_ratio": 2.0
+    },
+    {
+      "task": 232,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        8
+      ],
+      "output_shape": [
+        10,
+        8
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 233,
+      "pattern": "contraction",
+      "input_shape": [
+        24,
+        19
+      ],
+      "output_shape": [
+        17,
+        9
+      ],
+      "size_ratio": 0.3355263157894737
+    },
+    {
+      "task": 234,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        17,
+        14
+      ],
+      "output_shape": [
+        17,
+        14
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 235,
+      "pattern": "contraction",
+      "input_shape": [
+        4,
+        14
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.16071428571428573
+    },
+    {
+      "task": 236,
+      "pattern": "contraction",
+      "input_shape": [
+        9,
+        4
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 0.4444444444444444
+    },
+    {
+      "task": 237,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        6,
+        6
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 238,
+      "pattern": "contraction",
+      "input_shape": [
+        15,
+        16
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 0.15
+    },
+    {
+      "task": 239,
+      "pattern": "color_addition",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        5,
+        3
+      ],
+      "size_ratio": 1.6666666666666667
+    },
+    {
+      "task": 240,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        19,
+        19
+      ],
+      "output_shape": [
+        19,
+        19
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 241,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 242,
+      "pattern": "contraction",
+      "input_shape": [
+        16,
+        16
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.03515625
+    },
+    {
+      "task": 243,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        13,
+        13
+      ],
+      "output_shape": [
+        13,
+        13
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 244,
+      "pattern": "contraction",
+      "input_shape": [
+        19,
+        19
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 0.0443213296398892
+    },
+    {
+      "task": 245,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        7,
+        7
+      ],
+      "output_shape": [
+        7,
+        7
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 246,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        15,
+        15
+      ],
+      "output_shape": [
+        15,
+        15
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 247,
+      "pattern": "contraction",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        5,
+        3
+      ],
+      "size_ratio": 0.15
+    },
+    {
+      "task": 248,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        2
+      ],
+      "output_shape": [
+        10,
+        2
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 249,
+      "pattern": "rearrangement",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        6
+      ],
+      "size_ratio": 2.0
+    },
+    {
+      "task": 250,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 251,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        8,
+        8
+      ],
+      "output_shape": [
+        8,
+        8
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 252,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 253,
+      "pattern": "contraction",
+      "input_shape": [
+        13,
+        13
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 0.09467455621301775
+    },
+    {
+      "task": 254,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 255,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        30,
+        30
+      ],
+      "output_shape": [
+        30,
+        30
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 256,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        7,
+        7
+      ],
+      "output_shape": [
+        7,
+        7
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 257,
+      "pattern": "contraction",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 0.19753086419753085
+    },
+    {
+      "task": 258,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        5,
+        5
+      ],
+      "output_shape": [
+        5,
+        5
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 259,
+      "pattern": "contraction",
+      "input_shape": [
+        5,
+        7
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.2571428571428571
+    },
+    {
+      "task": 260,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 261,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        5,
+        5
+      ],
+      "output_shape": [
+        5,
+        5
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 262,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 263,
+      "pattern": "contraction",
+      "input_shape": [
+        9,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.3333333333333333
+    },
+    {
+      "task": 264,
+      "pattern": "contraction",
+      "input_shape": [
+        14,
+        14
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 0.413265306122449
+    },
+    {
+      "task": 265,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        18,
+        18
+      ],
+      "output_shape": [
+        18,
+        18
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 266,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        5
+      ],
+      "output_shape": [
+        3,
+        5
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 267,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        7,
+        7
+      ],
+      "output_shape": [
+        7,
+        7
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 268,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        7,
+        7
+      ],
+      "output_shape": [
+        7,
+        7
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 269,
+      "pattern": "expansion",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 4.0
+    },
+    {
+      "task": 270,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        15,
+        15
+      ],
+      "output_shape": [
+        15,
+        15
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 271,
+      "pattern": "contraction",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.1111111111111111
+    },
+    {
+      "task": 272,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 273,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 274,
+      "pattern": "contraction",
+      "input_shape": [
+        6,
+        6
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.25
+    },
+    {
+      "task": 275,
+      "pattern": "expansion",
+      "input_shape": [
+        3,
+        6
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 4.5
+    },
+    {
+      "task": 276,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        4
+      ],
+      "output_shape": [
+        3,
+        4
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 277,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 278,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        15,
+        18
+      ],
+      "output_shape": [
+        15,
+        18
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 279,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        11
+      ],
+      "output_shape": [
+        9,
+        11
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 280,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 281,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        11,
+        11
+      ],
+      "output_shape": [
+        11,
+        11
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 282,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 283,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 284,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        14,
+        10
+      ],
+      "output_shape": [
+        14,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 285,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        30,
+        30
+      ],
+      "output_shape": [
+        30,
+        30
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 286,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        11,
+        24
+      ],
+      "output_shape": [
+        11,
+        24
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 287,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        16,
+        16
+      ],
+      "output_shape": [
+        16,
+        16
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 288,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 289,
+      "pattern": "expansion",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 4.0
+    },
+    {
+      "task": 290,
+      "pattern": "contraction",
+      "input_shape": [
+        12,
+        13
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 0.10256410256410256
+    },
+    {
+      "task": 291,
+      "pattern": "contraction",
+      "input_shape": [
+        15,
+        13
+      ],
+      "output_shape": [
+        1,
+        1
+      ],
+      "size_ratio": 0.005128205128205128
+    },
+    {
+      "task": 292,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        10
+      ],
+      "output_shape": [
+        3,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 293,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        13,
+        13
+      ],
+      "output_shape": [
+        13,
+        13
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 294,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 295,
+      "pattern": "expansion",
+      "input_shape": [
+        1,
+        6
+      ],
+      "output_shape": [
+        3,
+        6
+      ],
+      "size_ratio": 3.0
+    },
+    {
+      "task": 296,
+      "pattern": "contraction",
+      "input_shape": [
+        5,
+        7
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.2571428571428571
+    },
+    {
+      "task": 297,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        8,
+        3
+      ],
+      "output_shape": [
+        8,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 298,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        6,
+        6
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 299,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        6,
+        6
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 300,
+      "pattern": "contraction",
+      "input_shape": [
+        7,
+        13
+      ],
+      "output_shape": [
+        4,
+        3
+      ],
+      "size_ratio": 0.13186813186813187
+    },
+    {
+      "task": 301,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        7
+      ],
+      "output_shape": [
+        10,
+        7
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 302,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        12,
+        12
+      ],
+      "output_shape": [
+        12,
+        12
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 303,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        12,
+        19
+      ],
+      "output_shape": [
+        12,
+        19
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 304,
+      "pattern": "3x3_tile",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 9.0
+    },
+    {
+      "task": 305,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        16,
+        16
+      ],
+      "output_shape": [
+        16,
+        16
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 306,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        19,
+        19
+      ],
+      "output_shape": [
+        19,
+        19
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 307,
+      "pattern": "expansion",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 4.0
+    },
+    {
+      "task": 308,
+      "pattern": "contraction",
+      "input_shape": [
+        12,
+        11
+      ],
+      "output_shape": [
+        5,
+        5
+      ],
+      "size_ratio": 0.1893939393939394
+    },
+    {
+      "task": 309,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        6
+      ],
+      "output_shape": [
+        3,
+        6
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 310,
+      "pattern": "contraction",
+      "input_shape": [
+        24,
+        24
+      ],
+      "output_shape": [
+        7,
+        7
+      ],
+      "size_ratio": 0.08506944444444445
+    },
+    {
+      "task": 311,
+      "pattern": "rearrangement",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        6
+      ],
+      "size_ratio": 2.0
+    },
+    {
+      "task": 312,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        12,
+        12
+      ],
+      "output_shape": [
+        12,
+        12
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 313,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        11,
+        11
+      ],
+      "output_shape": [
+        11,
+        11
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 314,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        8,
+        8
+      ],
+      "output_shape": [
+        8,
+        8
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 315,
+      "pattern": "3x3_tile",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 9.0
+    },
+    {
+      "task": 316,
+      "pattern": "contraction",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.09
+    },
+    {
+      "task": 317,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        9,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 318,
+      "pattern": "contraction",
+      "input_shape": [
+        9,
+        4
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 0.4444444444444444
+    },
+    {
+      "task": 319,
+      "pattern": "contraction",
+      "input_shape": [
+        17,
+        17
+      ],
+      "output_shape": [
+        5,
+        5
+      ],
+      "size_ratio": 0.08650519031141868
+    },
+    {
+      "task": 320,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        7,
+        9
+      ],
+      "output_shape": [
+        7,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 321,
+      "pattern": "contraction",
+      "input_shape": [
+        4,
+        14
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 0.2857142857142857
+    },
+    {
+      "task": 322,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 323,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        13,
+        13
+      ],
+      "output_shape": [
+        13,
+        13
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 324,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        19,
+        12
+      ],
+      "output_shape": [
+        19,
+        12
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 325,
+      "pattern": "contraction",
+      "input_shape": [
+        16,
+        10
+      ],
+      "output_shape": [
+        4,
+        4
+      ],
+      "size_ratio": 0.1
+    },
+    {
+      "task": 326,
+      "pattern": "contraction",
+      "input_shape": [
+        6,
+        6
+      ],
+      "output_shape": [
+        2,
+        2
+      ],
+      "size_ratio": 0.1111111111111111
+    },
+    {
+      "task": 327,
+      "pattern": "expansion",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 4.0
+    },
+    {
+      "task": 328,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 329,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 330,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 331,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 332,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        10
+      ],
+      "output_shape": [
+        3,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 333,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 334,
+      "pattern": "contraction",
+      "input_shape": [
+        5,
+        5
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.36
+    },
+    {
+      "task": 335,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        12
+      ],
+      "output_shape": [
+        10,
+        12
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 336,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 337,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        5,
+        5
+      ],
+      "output_shape": [
+        5,
+        5
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 338,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 339,
+      "pattern": "contraction",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        1,
+        2
+      ],
+      "size_ratio": 0.2222222222222222
+    },
+    {
+      "task": 340,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        15
+      ],
+      "output_shape": [
+        10,
+        15
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 341,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 342,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 343,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        5,
+        15
+      ],
+      "output_shape": [
+        5,
+        15
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 344,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 345,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 346,
+      "pattern": "contraction",
+      "input_shape": [
+        5,
+        9
+      ],
+      "output_shape": [
+        1,
+        1
+      ],
+      "size_ratio": 0.022222222222222223
+    },
+    {
+      "task": 347,
+      "pattern": "contraction",
+      "input_shape": [
+        3,
+        6
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.5
+    },
+    {
+      "task": 348,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        5,
+        7
+      ],
+      "output_shape": [
+        5,
+        7
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 349,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 350,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        9
+      ],
+      "output_shape": [
+        10,
+        9
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 351,
+      "pattern": "contraction",
+      "input_shape": [
+        16,
+        16
+      ],
+      "output_shape": [
+        5,
+        5
+      ],
+      "size_ratio": 0.09765625
+    },
+    {
+      "task": 352,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        5,
+        5
+      ],
+      "output_shape": [
+        5,
+        5
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 353,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 354,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 355,
+      "pattern": "contraction",
+      "input_shape": [
+        17,
+        13
+      ],
+      "output_shape": [
+        1,
+        1
+      ],
+      "size_ratio": 0.004524886877828055
+    },
+    {
+      "task": 356,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 357,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        2
+      ],
+      "output_shape": [
+        10,
+        2
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 358,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        12,
+        11
+      ],
+      "output_shape": [
+        12,
+        11
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 359,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        13,
+        17
+      ],
+      "output_shape": [
+        13,
+        17
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 360,
+      "pattern": "contraction",
+      "input_shape": [
+        10,
+        9
+      ],
+      "output_shape": [
+        10,
+        4
+      ],
+      "size_ratio": 0.4444444444444444
+    },
+    {
+      "task": 361,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 362,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 363,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 364,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        19,
+        21
+      ],
+      "output_shape": [
+        19,
+        21
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 365,
+      "pattern": "contraction",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        5,
+        4
+      ],
+      "size_ratio": 0.2
+    },
+    {
+      "task": 366,
+      "pattern": "contraction",
+      "input_shape": [
+        30,
+        17
+      ],
+      "output_shape": [
+        15,
+        17
+      ],
+      "size_ratio": 0.5
+    },
+    {
+      "task": 367,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        12,
+        19
+      ],
+      "output_shape": [
+        12,
+        19
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 368,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 369,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 370,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        12,
+        14
+      ],
+      "output_shape": [
+        12,
+        14
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 371,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 372,
+      "pattern": "contraction",
+      "input_shape": [
+        11,
+        11
+      ],
+      "output_shape": [
+        5,
+        11
+      ],
+      "size_ratio": 0.45454545454545453
+    },
+    {
+      "task": 373,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        2,
+        6
+      ],
+      "output_shape": [
+        2,
+        6
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 374,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 375,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 376,
+      "pattern": "expansion",
+      "input_shape": [
+        3,
+        17
+      ],
+      "output_shape": [
+        9,
+        17
+      ],
+      "size_ratio": 3.0
+    },
+    {
+      "task": 377,
+      "pattern": "contraction",
+      "input_shape": [
+        23,
+        27
+      ],
+      "output_shape": [
+        5,
+        5
+      ],
+      "size_ratio": 0.040257648953301126
+    },
+    {
+      "task": 378,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        6,
+        6
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 379,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        13,
+        13
+      ],
+      "output_shape": [
+        13,
+        13
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 380,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 381,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 382,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        17,
+        12
+      ],
+      "output_shape": [
+        17,
+        12
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 383,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        19,
+        13
+      ],
+      "output_shape": [
+        19,
+        13
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 384,
+      "pattern": "contraction",
+      "input_shape": [
+        9,
+        9
+      ],
+      "output_shape": [
+        6,
+        8
+      ],
+      "size_ratio": 0.5925925925925926
+    },
+    {
+      "task": 385,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        4
+      ],
+      "output_shape": [
+        10,
+        4
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 386,
+      "pattern": "contraction",
+      "input_shape": [
+        4,
+        7
+      ],
+      "output_shape": [
+        4,
+        3
+      ],
+      "size_ratio": 0.42857142857142855
+    },
+    {
+      "task": 387,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        14,
+        14
+      ],
+      "output_shape": [
+        14,
+        14
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 388,
+      "pattern": "expansion",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        6,
+        6
+      ],
+      "size_ratio": 4.0
+    },
+    {
+      "task": 389,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        3,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 390,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        15,
+        15
+      ],
+      "output_shape": [
+        15,
+        15
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 391,
+      "pattern": "contraction",
+      "input_shape": [
+        13,
+        13
+      ],
+      "output_shape": [
+        3,
+        1
+      ],
+      "size_ratio": 0.01775147928994083
+    },
+    {
+      "task": 392,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 393,
+      "pattern": "contraction",
+      "input_shape": [
+        12,
+        12
+      ],
+      "output_shape": [
+        3,
+        1
+      ],
+      "size_ratio": 0.020833333333333332
+    },
+    {
+      "task": 394,
+      "pattern": "contraction",
+      "input_shape": [
+        5,
+        5
+      ],
+      "output_shape": [
+        2,
+        2
+      ],
+      "size_ratio": 0.16
+    },
+    {
+      "task": 395,
+      "pattern": "contraction",
+      "input_shape": [
+        6,
+        3
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.5
+    },
+    {
+      "task": 396,
+      "pattern": "contraction",
+      "input_shape": [
+        13,
+        13
+      ],
+      "output_shape": [
+        7,
+        7
+      ],
+      "size_ratio": 0.28994082840236685
+    },
+    {
+      "task": 397,
+      "pattern": "same_size_transform",
+      "input_shape": [
+        10,
+        10
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 1.0
+    },
+    {
+      "task": 398,
+      "pattern": "expansion",
+      "input_shape": [
+        1,
+        5
+      ],
+      "output_shape": [
+        10,
+        10
+      ],
+      "size_ratio": 20.0
+    },
+    {
+      "task": 399,
+      "pattern": "contraction",
+      "input_shape": [
+        5,
+        5
+      ],
+      "output_shape": [
+        3,
+        3
+      ],
+      "size_ratio": 0.36
+    },
+    {
+      "task": 400,
+      "pattern": "contraction",
+      "input_shape": [
+        24,
+        24
+      ],
+      "output_shape": [
+        5,
+        5
+      ],
+      "size_ratio": 0.043402777777777776
+    }
+  ],
+  "summary": {
+    "3x3_tile": 5,
+    "same_size_transform": 262,
+    "complex": 1,
+    "contraction": 102,
+    "expansion": 21,
+    "rearrangement": 8,
+    "color_addition": 1
+  },
+  "patterns": {
+    "3x3_tile": [
+      1,
+      104,
+      223,
+      304,
+      315
+    ],
+    "same_size_transform": [
+      2,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      15,
+      16,
+      17,
+      18,
+      20,
+      23,
+      24,
+      25,
+      27,
+      28,
+      30,
+      32,
+      33,
+      34,
+      35,
+      37,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      47,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      66,
+      68,
+      69,
+      70,
+      71,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      80,
+      81,
+      82,
+      84,
+      85,
+      86,
+      87,
+      89,
+      90,
+      92,
+      93,
+      94,
+      95,
+      97,
+      98,
+      99,
+      101,
+      102,
+      105,
+      110,
+      112,
+      113,
+      117,
+      118,
+      119,
+      120,
+      122,
+      125,
+      126,
+      127,
+      128,
+      129,
+      131,
+      132,
+      133,
+      136,
+      137,
+      139,
+      140,
+      141,
+      143,
+      145,
+      147,
+      148,
+      150,
+      151,
+      154,
+      155,
+      156,
+      157,
+      158,
+      160,
+      161,
+      162,
+      163,
+      165,
+      166,
+      167,
+      168,
+      169,
+      171,
+      173,
+      175,
+      176,
+      179,
+      181,
+      182,
+      186,
+      187,
+      190,
+      191,
+      192,
+      193,
+      196,
+      197,
+      198,
+      199,
+      200,
+      202,
+      203,
+      204,
+      206,
+      208,
+      212,
+      214,
+      215,
+      217,
+      219,
+      220,
+      222,
+      224,
+      225,
+      226,
+      228,
+      229,
+      230,
+      232,
+      234,
+      237,
+      240,
+      241,
+      243,
+      245,
+      246,
+      248,
+      250,
+      251,
+      252,
+      254,
+      255,
+      256,
+      258,
+      260,
+      261,
+      262,
+      265,
+      266,
+      267,
+      268,
+      270,
+      272,
+      273,
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      292,
+      293,
+      294,
+      297,
+      298,
+      299,
+      301,
+      302,
+      303,
+      305,
+      306,
+      309,
+      312,
+      313,
+      314,
+      317,
+      320,
+      322,
+      323,
+      324,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      335,
+      336,
+      337,
+      338,
+      340,
+      341,
+      342,
+      343,
+      344,
+      345,
+      348,
+      349,
+      350,
+      352,
+      353,
+      354,
+      356,
+      357,
+      358,
+      359,
+      361,
+      362,
+      363,
+      364,
+      367,
+      368,
+      369,
+      370,
+      371,
+      373,
+      374,
+      375,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      385,
+      387,
+      389,
+      390,
+      392,
+      397
+    ],
+    "complex": [
+      3
+    ],
+    "contraction": [
+      6,
+      14,
+      21,
+      22,
+      26,
+      29,
+      31,
+      36,
+      38,
+      39,
+      46,
+      48,
+      49,
+      56,
+      57,
+      65,
+      67,
+      72,
+      79,
+      88,
+      91,
+      96,
+      100,
+      103,
+      109,
+      111,
+      115,
+      121,
+      130,
+      134,
+      135,
+      138,
+      144,
+      146,
+      149,
+      153,
+      159,
+      170,
+      174,
+      177,
+      178,
+      180,
+      183,
+      184,
+      185,
+      188,
+      189,
+      195,
+      201,
+      205,
+      207,
+      209,
+      213,
+      216,
+      218,
+      227,
+      233,
+      235,
+      236,
+      238,
+      242,
+      244,
+      247,
+      253,
+      257,
+      259,
+      263,
+      264,
+      271,
+      274,
+      290,
+      291,
+      296,
+      300,
+      308,
+      310,
+      316,
+      318,
+      319,
+      321,
+      325,
+      326,
+      334,
+      339,
+      346,
+      347,
+      351,
+      355,
+      360,
+      365,
+      366,
+      372,
+      377,
+      384,
+      386,
+      391,
+      393,
+      394,
+      395,
+      396,
+      399,
+      400
+    ],
+    "expansion": [
+      19,
+      83,
+      106,
+      107,
+      108,
+      114,
+      123,
+      142,
+      152,
+      194,
+      211,
+      221,
+      269,
+      275,
+      289,
+      295,
+      307,
+      327,
+      376,
+      388,
+      398
+    ],
+    "rearrangement": [
+      116,
+      124,
+      164,
+      172,
+      210,
+      231,
+      249,
+      311
+    ],
+    "color_addition": [
+      239
+    ]
+  }
+}
