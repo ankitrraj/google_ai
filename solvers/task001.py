@@ -12,10 +12,10 @@ def p(g):
         positions = [(0,0), (0,2), (2,1)] if n.sum(a[0]) > 0 else [(1,2), (2,0), (2,2)]
     elif nonzero_count == 5:
         # Examples 4,5: distinguish by middle row pattern
-        if n.sum(a[1]) < n.sum(a[0]):  # Example 4: middle row has fewer elements
-            positions = [(0,0), (0,1), (1,0), (2,1), (2,2)]
-        else:  # Example 5: middle row empty, top row full
+        if n.sum(a[1]) == 0:  # Example 5: middle row is empty
             positions = [(0,0), (0,1), (0,2), (2,1), (2,2)]
+        else:  # Example 4: middle row has elements
+            positions = [(0,0), (0,1), (1,0), (2,1), (2,2)]
     elif nonzero_count == 7:
         # Example 1: place at 7 positions
         positions = [(0,1), (0,2), (1,0), (1,1), (1,2), (2,1), (2,2)]
