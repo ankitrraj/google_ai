@@ -3,9 +3,13 @@ def p(g):
     a = n.array(g)
     # Convert 1s to 2s
     converted = n.where(a == 1, 2, a)
-    # Check pattern - if example 1 or 2, use [0,3,0], else use first 3 rows
-    if len(a) == 6 and n.array_equal(converted[[0,3,0]], converted[:3]):
+    
+    # Pattern detection: check if rows 0 and 3 are identical
+    if n.array_equal(converted[0], converted[3]):
+        # Use first 3 rows pattern (Examples 2,3)
         result = n.vstack([converted, converted[:3]])
     else:
+        # Use [0,3,0] pattern (Example 1)
         result = n.vstack([converted, converted[[0,3,0]]])
+    
     return result.tolist()
